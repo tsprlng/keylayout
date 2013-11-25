@@ -1,9 +1,5 @@
 ![Diagram of the layout](/layout.png)
 
-```
-sudo cp {,/Library/Keyboard\ Layouts/}Workman-LP.bundle
-```
-
 What is this?
 =============
 
