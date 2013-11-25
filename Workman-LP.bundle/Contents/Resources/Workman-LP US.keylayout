@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.6 on 2013-11-24 at 23:54 (GMT)-->
+<!--Last edited by Ukelele version 2.2.6 on 2013-11-25 at 21:12 (GMT)-->
 <!--Created by Ukelele version 2.2.6 on 2013-11-24 at 23:32 (GMT)-->
 <keyboard group="0" id="16329" name="Workman-LP US" maxout="1">
     <layouts>
@@ -53,7 +53,7 @@
             <key code="6" output="/"/>
             <key code="7" output=","/>
             <key code="8" output="."/>
-            <key code="9" output="l"/>
+            <key code="9" output="b"/>
             <key code="10" output="§"/>
             <key code="11" output="x"/>
             <key code="12" output="q"/>
@@ -61,7 +61,7 @@
             <key code="14" output="r"/>
             <key code="15" output="w"/>
             <key code="16" output="j"/>
-            <key code="17" output="b"/>
+            <key code="17" output="l"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
@@ -165,7 +165,7 @@
             <key code="6" output="?"/>
             <key code="7" output="&#x003C;"/>
             <key code="8" output="&#x003E;"/>
-            <key code="9" output="L"/>
+            <key code="9" output="B"/>
             <key code="10" output="±"/>
             <key code="11" output="X"/>
             <key code="12" output="Q"/>
@@ -173,7 +173,7 @@
             <key code="14" output="R"/>
             <key code="15" output="W"/>
             <key code="16" output="J"/>
-            <key code="17" output="B"/>
+            <key code="17" output="L"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
@@ -277,7 +277,7 @@
             <key code="6" output="/"/>
             <key code="7" output=","/>
             <key code="8" output="."/>
-            <key code="9" output="L"/>
+            <key code="9" output="B"/>
             <key code="10" output="§"/>
             <key code="11" output="X"/>
             <key code="12" output="Q"/>
@@ -285,7 +285,7 @@
             <key code="14" output="R"/>
             <key code="15" output="W"/>
             <key code="16" output="J"/>
-            <key code="17" output="B"/>
+            <key code="17" output="L"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
@@ -389,7 +389,7 @@
             <key code="6" output="÷"/>
             <key code="7" output="≤"/>
             <key code="8" output="≥"/>
-            <key code="9" output="¬"/>
+            <key code="9" output="∫"/>
             <key code="10" output="§"/>
             <key code="11" output="≈"/>
             <key code="12" output="œ"/>
@@ -397,7 +397,7 @@
             <key code="14" output="®"/>
             <key code="15" output="∑"/>
             <key code="16" output="∆"/>
-            <key code="17" output="∫"/>
+            <key code="17" output="¬"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
             <key code="20" output="£"/>
@@ -501,7 +501,7 @@
             <key code="6" output="¿"/>
             <key code="7" output="¯"/>
             <key code="8" output="˘"/>
-            <key code="9" output="Ò"/>
+            <key code="9" output="ı"/>
             <key code="10" output="±"/>
             <key code="11" output="˛"/>
             <key code="12" output="Œ"/>
@@ -509,7 +509,7 @@
             <key code="14" output="‰"/>
             <key code="15" output="„"/>
             <key code="16" output="Ô"/>
-            <key code="17" output="ı"/>
+            <key code="17" output="Ò"/>
             <key code="18" output="⁄"/>
             <key code="19" output="€"/>
             <key code="20" output="‹"/>
@@ -613,7 +613,7 @@
             <key code="6" output="÷"/>
             <key code="7" output="≤"/>
             <key code="8" output="≥"/>
-            <key code="9" output="Ò"/>
+            <key code="9" output="ı"/>
             <key code="10" output="§"/>
             <key code="11" output="≈"/>
             <key code="12" output="Œ"/>
@@ -621,7 +621,7 @@
             <key code="14" output="®"/>
             <key code="15" output="∑"/>
             <key code="16" output="Ô"/>
-            <key code="17" output="ı"/>
+            <key code="17" output="Ò"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
             <key code="20" output="£"/>
@@ -725,7 +725,7 @@
             <key code="6" output="÷"/>
             <key code="7" output="≤"/>
             <key code="8" output="≥"/>
-            <key code="9" output="¬"/>
+            <key code="9" output="∫"/>
             <key code="10" output="§"/>
             <key code="11" output="≈"/>
             <key code="12" output="œ"/>
@@ -733,7 +733,7 @@
             <key code="14" output="®"/>
             <key code="15" output="∑"/>
             <key code="16" output="∆"/>
-            <key code="17" output="∫"/>
+            <key code="17" output="¬"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
             <key code="20" output="£"/>
@@ -837,7 +837,7 @@
             <key code="6" output="/"/>
             <key code="7" output=","/>
             <key code="8" output="."/>
-            <key code="9" output="l"/>
+            <key code="9" output="b"/>
             <key code="10" output="0"/>
             <key code="11" output="x"/>
             <key code="12" output="q"/>
@@ -845,7 +845,7 @@
             <key code="14" output="r"/>
             <key code="15" output="w"/>
             <key code="16" output="j"/>
-            <key code="17" output="b"/>
+            <key code="17" output="l"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>

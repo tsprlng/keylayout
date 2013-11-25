@@ -11,14 +11,14 @@
 	<key>KLInfo_Workman-LP British</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman-p.workman-lpbritish</string>
+		<string>org.sil.ukelele.keyboardlayout.workman-lp.workman-lpbritish</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-GB</string>
 	</dict>
 	<key>KLInfo_Workman-LP US</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman-p.workman-lpus</string>
+		<string>org.sil.ukelele.keyboardlayout.workman-lp.workman-lpus</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-GB</string>
 	</dict>
